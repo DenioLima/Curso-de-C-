@@ -1,0 +1,16 @@
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\bin\Debug\net5.0\Poo_cs1.exe
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\bin\Debug\net5.0\Poo_cs1.deps.json
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\bin\Debug\net5.0\Poo_cs1.runtimeconfig.json
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\bin\Debug\net5.0\Poo_cs1.runtimeconfig.dev.json
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\bin\Debug\net5.0\Poo_cs1.dll
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\bin\Debug\net5.0\ref\Poo_cs1.dll
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\bin\Debug\net5.0\Poo_cs1.pdb
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\Poo_cs1.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\Poo_cs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\Poo_cs1.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\Poo_cs1.AssemblyInfo.cs
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\Poo_cs1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\Poo_cs1.dll
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\ref\Poo_cs1.dll
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\Poo_cs1.pdb
+C:\Users\Windows\Documents\Estudo C#\Poo_cs1\Poo_cs1\obj\Debug\net5.0\Poo_cs1.genruntimeconfig.cache

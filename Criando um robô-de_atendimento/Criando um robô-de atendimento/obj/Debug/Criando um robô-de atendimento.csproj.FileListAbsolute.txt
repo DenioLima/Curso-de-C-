@@ -1,0 +1,7 @@
+C:\Users\Windows\Documents\Estudo C#\Criando um robô-de atendimento\Criando um robô-de atendimento\bin\Debug\Criando um robô-de atendimento.exe.config
+C:\Users\Windows\Documents\Estudo C#\Criando um robô-de atendimento\Criando um robô-de atendimento\bin\Debug\Criando um robô-de atendimento.exe
+C:\Users\Windows\Documents\Estudo C#\Criando um robô-de atendimento\Criando um robô-de atendimento\bin\Debug\Criando um robô-de atendimento.pdb
+C:\Users\Windows\Documents\Estudo C#\Criando um robô-de atendimento\Criando um robô-de atendimento\obj\Debug\Criando um robô-de atendimento.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\Estudo C#\Criando um robô-de atendimento\Criando um robô-de atendimento\obj\Debug\Criando um robô-de atendimento.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Estudo C#\Criando um robô-de atendimento\Criando um robô-de atendimento\obj\Debug\Criando um robô-de atendimento.exe
+C:\Users\Windows\Documents\Estudo C#\Criando um robô-de atendimento\Criando um robô-de atendimento\obj\Debug\Criando um robô-de atendimento.pdb

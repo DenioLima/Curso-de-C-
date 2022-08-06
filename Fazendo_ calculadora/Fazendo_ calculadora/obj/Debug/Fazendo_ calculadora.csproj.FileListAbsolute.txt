@@ -1,0 +1,7 @@
+C:\Users\Windows\Documents\Estudo C#\Fazendo_ calculadora\Fazendo_ calculadora\bin\Debug\Fazendo_ calculadora.exe.config
+C:\Users\Windows\Documents\Estudo C#\Fazendo_ calculadora\Fazendo_ calculadora\bin\Debug\Fazendo_ calculadora.exe
+C:\Users\Windows\Documents\Estudo C#\Fazendo_ calculadora\Fazendo_ calculadora\bin\Debug\Fazendo_ calculadora.pdb
+C:\Users\Windows\Documents\Estudo C#\Fazendo_ calculadora\Fazendo_ calculadora\obj\Debug\Fazendo_ calculadora.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\Estudo C#\Fazendo_ calculadora\Fazendo_ calculadora\obj\Debug\Fazendo_ calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Estudo C#\Fazendo_ calculadora\Fazendo_ calculadora\obj\Debug\Fazendo_ calculadora.exe
+C:\Users\Windows\Documents\Estudo C#\Fazendo_ calculadora\Fazendo_ calculadora\obj\Debug\Fazendo_ calculadora.pdb

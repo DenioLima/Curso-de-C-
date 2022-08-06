@@ -1,0 +1,8 @@
+C:\Users\Windows\Documents\Estudo C#\curso_cs05\bin\Debug\curso_cs05.exe.config
+C:\Users\Windows\Documents\Estudo C#\curso_cs05\bin\Debug\curso_cs05.exe
+C:\Users\Windows\Documents\Estudo C#\curso_cs05\bin\Debug\curso_cs05.pdb
+C:\Users\Windows\Documents\Estudo C#\curso_cs05\obj\Debug\curso_cs05.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\Estudo C#\curso_cs05\obj\Debug\curso_cs05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Documents\Estudo C#\curso_cs05\obj\Debug\curso_cs05.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Estudo C#\curso_cs05\obj\Debug\curso_cs05.exe
+C:\Users\Windows\Documents\Estudo C#\curso_cs05\obj\Debug\curso_cs05.pdb

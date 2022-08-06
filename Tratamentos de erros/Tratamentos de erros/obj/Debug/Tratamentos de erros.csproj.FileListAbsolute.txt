@@ -1,0 +1,7 @@
+C:\Users\Windows\Documents\Estudo C#\Tratamentos de erros\Tratamentos de erros\bin\Debug\Tratamentos de erros.exe.config
+C:\Users\Windows\Documents\Estudo C#\Tratamentos de erros\Tratamentos de erros\bin\Debug\Tratamentos de erros.exe
+C:\Users\Windows\Documents\Estudo C#\Tratamentos de erros\Tratamentos de erros\bin\Debug\Tratamentos de erros.pdb
+C:\Users\Windows\Documents\Estudo C#\Tratamentos de erros\Tratamentos de erros\obj\Debug\Tratamentos de erros.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\Estudo C#\Tratamentos de erros\Tratamentos de erros\obj\Debug\Tratamentos de erros.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Estudo C#\Tratamentos de erros\Tratamentos de erros\obj\Debug\Tratamentos de erros.exe
+C:\Users\Windows\Documents\Estudo C#\Tratamentos de erros\Tratamentos de erros\obj\Debug\Tratamentos de erros.pdb
